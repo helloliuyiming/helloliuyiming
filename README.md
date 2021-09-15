@@ -13,10 +13,10 @@ name:lym
 |      | [Cet46PhraseApp](https://github.com/helloliuyiming/Cet46PhraseApp) | app  | kotlin  | 四六级词组学习工具                                           | 2021-05-04 |          |          |        |       | 5      | 已完成         |
 |      | [java-exception-class-generator](https://github.com/helloliuyiming/java-exception-class-generator) |      | js/vue  | 帮助java开发者生成应用Exception                              | 2021-09-13 |          |          |        |       | 6      | 进行中         |
 
+更新于2021-9-15
 
 ### 我喜欢的项目
 
-## 其他信息
 
 ## 联系我
 
