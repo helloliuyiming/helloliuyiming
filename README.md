@@ -8,11 +8,9 @@ name:lym
 
 ## my works
 
-| 代号 | 名称                                                         | 类型 | 语言    | 描述                                                         | 创建时间   | 更新时间 | 提交次数 | starts | forks | prides | 状态           |
-| ---- | ------------------------------------------------------------ | ---- | ------- | ------------------------------------------------------------ | ---------- | -------- | -------- | ------ | ----- | ------ | -------------- |
-|      | [MySpace](https://github.com/helloliuyiming/MySpace)     |      | 不限    | 最终形态应该是每个人的数据都存储在自己的MySpace中，社交，存储文件等等 | 2021-01-19 |          |          |        |       | 7      | [原型](https://github.com/helloliuyiming/space-frontend)完成 |
-|      | [Cet46PhraseApp](https://github.com/helloliuyiming/Cet46PhraseApp) | app  | kotlin  | 四六级词组学习工具                                           | 2021-05-04 |          |          |    ![](https://img.shields.io/github/stars/helloliuyiming/Cet46PhraseApp)    |   ![](https://img.shields.io/github/forks/helloliuyiming/Cet46PhraseApp)    | 5      | 已完成         |
-|      | [java-exception-class-generator](https://github.com/helloliuyiming/java-exception-class-generator) |      | js/vue  | 帮助java开发者生成Exception                              | 2021-09-13 |          |          |   ![](https://img.shields.io/github/stars/helloliuyiming/java-exception-class-generator)     |   ![](https://img.shields.io/github/forks/helloliuyiming/java-exception-class-generator)    | 6      | 进行中(原型已完成)         |
++ [Cet46PhraseApp](https://github.com/helloliuyiming/Cet46PhraseApp)
++ [java-exception-class-generator](https://github.com/helloliuyiming/java-exception-class-generator)
++ [IdGenerator](https://github.com/helloliuyiming/IdGenerator)
 
 更新于2021-10-12
 
